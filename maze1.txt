@@ -1,0 +1,12 @@
+15   10
+0    13
+xxxxxxxxxxxxx x
+xx    xxxxxxx x
+xxxxxxxxxxxxx x
+xx   xxxx     x
+xx x xxxx xxxxx
+xx x xxxx xx xx
+xx x x xx xx xx
+xx x   xx xx xx
+xxxxxx       xx
+xxxxxxxxxxxxxxx

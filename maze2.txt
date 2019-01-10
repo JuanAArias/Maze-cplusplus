@@ -1,0 +1,11 @@
+23 	9
+0	9
+xxxxxxxxx xxxxxxxxxxxxx
+xxxxxxxx  x xxx xxx  xx
+xx x xx     xxx  xxx  x
+x    x  x  xx  xxxx   x
+x  x x  x  x          x
+x     x x        xx xxx
+xxxxxxxxxxxxxxxx xx  xx
+x  x              x   x
+xxxxxxxxxxxxxxxxxxxxxxx
